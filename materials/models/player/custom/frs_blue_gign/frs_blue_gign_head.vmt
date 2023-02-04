@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+
+	$basetexture "models/player/custom/frs_blue_gign/frs_blue_gign_head"
+
+
+	"$phong" 1
+	"$phongboost" "7.0"
+	"$phongfresnelranges" "[0.0 0.5 1.0]"
+	"$rimlight" 1
+	"$rimexponent" "2"
+	"$rimboost" "1"
+	"$rimmask" 1
+
+}

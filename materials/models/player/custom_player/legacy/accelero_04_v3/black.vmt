@@ -1,0 +1,27 @@
+VertexLitGeneric
+{
+	$basetexture   "models/player/custom_player/legacy/accelero_04_v3/Base_Color04"
+	$bumpmap       "models/player/custom_player/legacy/accelero_04_v3/Normal"
+	
+	$notint 1
+	$nocull 1
+	
+	// PHONG SHADING
+	$phong                      1                      // Enable Phong Shading
+	$phongboost                 0.48                   // Increase brightness of Phong highlight
+	$phongfresnelranges         "[1 4 6]"              // Intensity of Phong depending on view angle
+	$phongtint                  "[.8 .8 1]"            // Tint the phong highlight (RGB value)
+
+	$phongalbedotint            1                      // Allows Diffuse to color phong highlights
+	$phongalbedoboost           48                     // Increase brightness of AlbedoTint effect
+	$normalmapalphaphongmask    1                      // Use alpha channel in normal Map to mask Phong highlight
+
+	// RIM LIGHT
+	$rimlight                   1                      // Enable Rim Lighting
+	$rimlightexponent           24                     // Tightness of Rim Light highlight
+	$rimlightboost              1.2                    // Increase brightness of Rim Light highlight
+	$rimmask                    1                      // Use alpha channel in Exponent Map to mask Rim Light
+
+	$selfillum     1
+	$selfillumtint "[0 0 0]"
+}

@@ -1,0 +1,15 @@
+"LightmappedGeneric"
+{
+   "$basetexture" "sprays\frs-season-one\bronze"
+	"$translucent" 1
+	"$decalscale" 0.25
+	"proxies"
+	{
+		"Animatedtexture"
+			{
+			"Animatedtexturevar" "$Basetexture"
+			"Animatedtextureframenumvar" "$frame"
+			"Animatedtextureframerate" "26"
+			}
+	}	
+}

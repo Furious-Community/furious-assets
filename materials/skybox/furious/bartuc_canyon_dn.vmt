@@ -1,0 +1,9 @@
+"UnlitGeneric"
+
+{
+
+"$basetexture" "skybox/furious/bartuc_canyon_dn"
+"$nofog" "1"
+"$ignorez" "1"
+
+}

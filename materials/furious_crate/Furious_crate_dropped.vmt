@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	$baseTexture "Furious_crate\Furious_crate_dropped"
+	$model  1
+                $bumpmap "Furious_crate\Furious_crate_nrm"
+
+                envmap "env_cubemap"
+}

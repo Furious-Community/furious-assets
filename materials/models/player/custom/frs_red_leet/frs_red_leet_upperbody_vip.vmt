@@ -1,0 +1,10 @@
+"patch"
+{
+	"include" "materials/models/player/tm_leet/tm_leet_shared.vmt"
+	"insert"
+	{	
+	"$baseTexture" "models/player/custom/frs_red_leet/frs_red_leet_upperbody_vip"
+	"$bumpmap" "models\player\tm_leet\tm_leet_upperbody_normal"
+
+	}	
+}

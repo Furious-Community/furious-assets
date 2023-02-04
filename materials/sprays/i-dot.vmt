@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "sprays/i-dot"
+	"$translucent" 1
+	"$decalscale" 0.25
+}

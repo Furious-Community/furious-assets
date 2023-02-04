@@ -1,0 +1,16 @@
+VertexLitGeneric
+{
+//Base
+	"$BaseTexture" 				 "models/player/custom_player/legacy/accelero_04_v3/Base_Color04"
+	"$BumpMap" 					 "models/player/custom_player/legacy/accelero_04_v3/Normal"
+	
+	$nocull 1
+	
+//Phong
+	"$Phong" 					 "[1]"
+	"$PhongBoost" 				 "[0.05]"	
+	"$PhongExponent" 			 "[25]"	
+	"$PhongFresnelRanges"		 "[0.3 0.5 1]"
+	"$PhongAlbedoTint"           "[1]"
+	"$NormalmapAlphaPhongMask"   "[1]"
+}

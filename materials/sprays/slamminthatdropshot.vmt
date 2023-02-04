@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "sprays/slamminthatdropshot"
+	"$translucent" 1
+	"$decalscale" 0.25
+}

@@ -1,0 +1,6 @@
+UnlitGeneric
+{
+    $basetexture                 "overlays/frs-hitmarker/frs-hitmarker-armor-break-v2"
+    $translucent                 1
+    $basetexturetransform        "center .5 .5 scale 16 9 rotate 0 translate 0 0"
+}

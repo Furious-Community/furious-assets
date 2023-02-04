@@ -1,0 +1,41 @@
+"VertexLitGeneric"
+{
+//Base
+	"$BaseTexture" 				 "models/player/custom_player/legacy/frs_devil/group1_Base_Color"
+	"$BumpMap" 					 "models/player/custom_player/legacy/frs_devil/group1_Normal"
+	"$phongexponenttexture"      "models/player/custom_player/legacy/frs_devil/group1_Metallic"
+	
+//Warp	
+	"$LightWarpTexture" 		 "models/player/custom_player/legacy/frs_devil/lightwarp"
+	
+//Phong
+	"$Phong" 					 "1"
+	"$PhongBoost" 				 "5"	
+	"$PhongExponent" 			 "25"	
+	"$PhongFresnelRanges"		 "0.3 0.5 1"
+	"$PhongAlbedoTint"           "1"
+
+//Rimlight
+	"$Rimlight" 			     "1"
+	"$RimMask" 				     "1"
+	"$RimlightExponent"          "20"
+	"$RimlightBoost"             "0.25"
+
+//Detail
+	"$selfillum"			 	 "1"
+	"$selfillumtexture" 		 "models/player/custom_player/legacy/frs_devil/group1_Base_Color"
+	"$selfillummask" 		 	 "models/player/custom_player/legacy/frs_devil/group1_Base_Color"
+	"$selfillummaskscale"		 "1"
+	"$selfIllumFresnel"			 "0"
+
+	
+//Other
+	"$Model"                     "1"
+	"$HalfLambert" 			     "1"
+	"$NoDecal" 				     "0"
+	"$AmbientOcclusion" 	     "1"
+	"$NoCull" 				     "1"
+	"$SurfaceProp" 			     "flesh"
+	"$BlendTintByBaseAlpha"      "1"
+	"$Color2"					 "[0.7 0.7 0.7]"	//You can change model color here [RGB]
+}	

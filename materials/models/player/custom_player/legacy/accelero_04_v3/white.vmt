@@ -1,0 +1,9 @@
+VertexLitGeneric
+{
+	$basetexture   "models/player/custom_player/legacy/accelero_04_v3/Base_Color04"
+	$bumpmap       "models/player/custom_player/legacy/accelero_04_v3/Normal"
+	$selfillum     1
+	$selfillumtint "[1 1 1]"
+	$phong 1
+	$pearlescent   "-100"
+}

@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "sprays/even-strafe"
+	"$translucent" 1
+	"$decalscale" 0.25
+}

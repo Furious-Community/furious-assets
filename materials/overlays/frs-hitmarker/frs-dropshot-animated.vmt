@@ -1,0 +1,15 @@
+UnlitGeneric
+{
+    $basetexture                 "overlays/frs-hitmarker/frs-dropshot-animated"
+    $translucent                 1
+    $basetexturetransform        "center .5 .46 scale 16 9 rotate 0 translate 0 0"
+	"proxies"
+	{
+		"AnimatedEntityTexture"
+			{
+			"Animatedtexturevar" "$Basetexture"
+			"Animatedtextureframenumvar" "$frame"
+			"Animatedtextureframerate" "24"
+			}
+	}
+}
