@@ -17,6 +17,7 @@ Add the custom content to your server's game configuration:
     Replace http://yourserver.com/csgo/ with the URL of your custom content folder.
 
 Restart your server:
+
     Restart your server to apply the changes and make the custom content available to your players.
 
 That's it! The custom materials, models, and sounds used by Furious Gaming are now installed and ready to go. If you run into any issues, make sure your custom content is correctly placed in the right folders. Also, double-check that your server.cfg file is correctly configured to allow downloads and uploads.
