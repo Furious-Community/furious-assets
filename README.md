@@ -1,5 +1,5 @@
 # furious-assets
-The assets used on Furious servers.
+The assets used on Furious Gaming servers including materials, models and sounds.
 
 Upload your custom content:
 
